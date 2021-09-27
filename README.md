@@ -8,7 +8,7 @@
 
 ## Installation
 
-1. download Off-road [CARLA](https://github.com/carla-simulator/carla) environment from [google drive](https://drive.google.com/file/d/1VqWp9lU5ysT1Pf9Z8Gm_y0rikp2vkgXO/view?usp=sharing)
+1. download Off-road CARLA environment from [google drive](https://drive.google.com/file/d/1VqWp9lU5ysT1Pf9Z8Gm_y0rikp2vkgXO/view?usp=sharing)
 
 2. clone this repository
 ```
