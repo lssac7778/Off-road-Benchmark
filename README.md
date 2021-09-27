@@ -4,7 +4,7 @@
 
 [Isaac Han](https://github.com/lssac7778), Dong-Hyeok Park, and [Kyung-Joong Kim](https://cilab.gist.ac.kr/hp/current-member/)
 
-**IEEE Access** \[Paper] \[Video]
+**IEEE Access** \[Paper\] \[Video\]
 ## Off-road CARLA Environment
 
 
