@@ -20,3 +20,4 @@ sh ./CARLA_Shipping_0.9.6-dirty/LinuxNoEditor/CarlaUE4.sh -opengl
 ## Document
 
 ## Contact
+If you have any questions about the paper or the codebase, please feel free to contact lssac7778@gm.gist.ac.kr
