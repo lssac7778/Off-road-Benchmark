@@ -10,7 +10,7 @@
 
 download Off-road [CARLA](https://github.com/carla-simulator/carla) Environment from [google drive](https://drive.google.com/file/d/1VqWp9lU5ysT1Pf9Z8Gm_y0rikp2vkgXO/view?usp=sharing)
 ```
-git clone https://github.com/lssac7778/Off-road-Benchmark
+https://github.com/lssac7778/Off-road-Benchmark.git
 ```
 
 
