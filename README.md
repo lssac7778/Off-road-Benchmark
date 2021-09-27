@@ -25,6 +25,7 @@ sh <download-path>/CARLA_Shipping_0.9.6-dirty/LinuxNoEditor/CarlaUE4.sh -opengl
 ```
 run test_env.py
 ```
+cd Off-road-Benchmark
 docker run -v $PWD:/app -e DISPLAY=$DISPLAY --net host --ipc host lssac7778/carla python test_env.py
 ```
 ## Document
