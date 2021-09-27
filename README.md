@@ -12,7 +12,7 @@ download Off-road [CARLA](https://github.com/carla-simulator/carla) Environment 
 
 run CARLA server
 ```
-sh ./CARLA_Shipping_0.9.6-dirty/LinuxNoEditor/CarlaUE4.sh -opengl
+sh <download-path>/CARLA_Shipping_0.9.6-dirty/LinuxNoEditor/CarlaUE4.sh -opengl
 ```
 
 ## Quick Start
