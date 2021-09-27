@@ -8,7 +8,7 @@
 
 ## Installation
 
-download Off-road CARLA Environment from 
+download Off-road CARLA Environment from [google drive](https://drive.google.com/file/d/1VqWp9lU5ysT1Pf9Z8Gm_y0rikp2vkgXO/view?usp=sharing)
 
 ## Quick Start
 
