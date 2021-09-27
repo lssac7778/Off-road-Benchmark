@@ -17,13 +17,14 @@ from common.utills import numpy_imwrite
 import cv2
 
 try:
-    # carla 0.9버젼 라이브러리가 있는 곳을 작성
     pwd = os.getcwd()
-    sys.path.append(glob.glob('%s/carla_v09/dist/carla-*%d.%d-%s.egg' % (
+    search_key = '%s/carla_v09/dist/carla-*%d.*-%s.egg' % (
         pwd,
         sys.version_info.major,
-        sys.version_info.minor,
-        'win-amd64' if os.name == 'nt' else 'linux-x86_64'))[0])
+        'win-amd64' if os.name == 'nt' else 'linux-x86_64'
+    )
+    carla_path = glob.glob(search_key)[0]
+    sys.path.append(carla_path)
     
     import carla
     from carla import ColorConverter as cc    
