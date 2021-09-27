@@ -1,6 +1,6 @@
 # A New Open-Source Off-road Environment for Benchmark Generalization of Autonomous Driving
 
-<img src = "https://user-images.githubusercontent.com/31644153/134851472-477c60e0-f1f7-4c16-8faf-efb1197ede1d.png" width="70%" height="70%">
+<img src = "https://user-images.githubusercontent.com/31644153/134851472-477c60e0-f1f7-4c16-8faf-efb1197ede1d.png" width="80%" height="80%">
 
 [Isaac Han](https://github.com/lssac7778), [Dong-Hyeok Park](https://github.com/bhappy10), and [Kyung-Joong Kim](https://cilab.gist.ac.kr/hp/current-member/)
 
