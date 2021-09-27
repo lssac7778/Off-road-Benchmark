@@ -9,17 +9,24 @@
 ## Installation
 
 download Off-road [CARLA](https://github.com/carla-simulator/carla) environment from [google drive](https://drive.google.com/file/d/1VqWp9lU5ysT1Pf9Z8Gm_y0rikp2vkgXO/view?usp=sharing)
+clone this repository
 ```
 git clone https://github.com/lssac7778/Off-road-Benchmark.git
 ```
+pull docker image
+```
+docker pull lssac7778/carla
+```
 
-
-## Run
+## Quick start
 run CARLA server
 ```
 sh <download-path>/CARLA_Shipping_0.9.6-dirty/LinuxNoEditor/CarlaUE4.sh -opengl
 ```
-
+run test_env.py
+```
+docker run -v $PWD:/app -e DISPLAY=$DISPLAY --net host --ipc host lssac7778/carla python test_env.py
+```
 ## Document
 
 ## Contact
