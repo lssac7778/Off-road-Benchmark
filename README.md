@@ -4,7 +4,7 @@
 
 [Isaac Han](https://github.com/lssac7778), [Dong-Hyeok Park](https://github.com/bhappy10), and [Kyung-Joong Kim](https://cilab.gist.ac.kr/hp/current-member/)
 
-**IEEE Access** \[Paper\] \[Video\]
+**IEEE Access** \[Paper\] [\[Video\]](https://www.youtube.com/watch?v=SERSv0TFUwQ)
 
 ## Installation
 
