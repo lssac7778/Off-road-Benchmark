@@ -1,5 +1,5 @@
 
-SAVE_PATH = '/data/ADD/dataset1'
+SAVE_PATH = '/data/dataset1'
 
 DISPLAY_WIDTH = 640
 DISPLAY_HEIGHT = 480
