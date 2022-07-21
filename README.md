@@ -30,7 +30,7 @@ cd Off-road-Benchmark
 docker run -v $PWD:/app -e DISPLAY=$DISPLAY --net host --ipc host lssac7778/carla python test_env.py
 ```
 ## Document
-TBA
+[Document](https://github.com/lssac7778/Off-road-Benchmark/wiki)
 
 ## Contact
 If you have any questions about the paper or the codebase, please feel free to contact lssac7778@gm.gist.ac.kr
