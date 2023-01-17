@@ -30,7 +30,11 @@ cd Off-road-Benchmark
 docker run -v $PWD:/app -e DISPLAY=$DISPLAY --net host --ipc host lssac7778/carla python test_env.py
 ```
 ## Document
-[Document](https://github.com/lssac7778/Off-road-Benchmark/wiki)
+1. [Train custom agent](/lssac7778/Off-road-Benchmark/wiki#1-train-custom-agent)
+2. [Evaluate custom agent](lssac7778/Off-road-Benchmark/wiki#2-evaluate-custom-agent)
+3. [Use custom reward function](lssac7778/Off-road-Benchmark/wiki#3-use-custom-reward-function)
+4. [How to import off-road maps into recent CARLA versions?](lssac7778/Off-road-Benchmark/wiki#4-how-to-import-off-road-maps-into-recent-CARLA-versions)
+
 
 ## Contact
 If you have any questions about the paper or the codebase, please feel free to contact lssac7778@gm.gist.ac.kr
