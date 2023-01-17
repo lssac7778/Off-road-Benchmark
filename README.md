@@ -33,7 +33,7 @@ docker run -v $PWD:/app -e DISPLAY=$DISPLAY --net host --ipc host lssac7778/carl
 1. [Train custom agent](https://github.com/lssac7778/Off-road-Benchmark/wiki#1-train-custom-agent)
 2. [Evaluate custom agent](https://github.com/lssac7778/Off-road-Benchmark/wiki#2-evaluate-custom-agent)
 3. [Use custom reward function](https://github.com/lssac7778/Off-road-Benchmark/wiki#3-use-custom-reward-function)
-4. [How to import off-road maps into recent CARLA versions?](https://github.com/lssac7778/Off-road-Benchmark/wiki#4-how-to-import-off-road-maps-into-recent-CARLA-versions)
+4. [How to import off-road maps into recent CARLA versions?](https://github.com/lssac7778/Off-road-Benchmark/blob/main/docs/Add_Custom_Map_to_Carla.pdf)
 
 
 ## Contact
